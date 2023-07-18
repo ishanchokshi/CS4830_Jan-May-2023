@@ -1,0 +1,101 @@
+order_id,order_product_name,order_card_type,order_amount,order_datetime,order_country_name,order_city_name,order_ecommerce_website_name
+1,External Hard Drive,Visa,866.94,30-03-2023 22:40,Germany,Berlin,www.snapdeal.com
+2,Wrist Band,MasterCard,783.49,30-03-2023 22:45,India,Kolkata,www.amazon.com
+3,HDMI Cable,Visa,178.76,30-03-2023 22:34,Inida,New Delhi,www.flipkart.com
+4,Text Books,MasterCard,429.85,30-03-2023 21:12,India,Hyderabad,www.healthkart.com
+5,Pen Drive,MasterCard,789.93,30-03-2023 20:25,Pakistan,Islamabad,www.amazon.com
+6,HDMI Cable,Visa,53.8,30-03-2023 22:11,United States,Florida,www.snapdeal.com
+7,Text Books,MasterCard,894.02,30-03-2023 21:58,China,Beijing,www.healthkart.com
+8,Laptop,Visa,99.12,30-03-2023 20:27,India,Chennai,www.amazon.com
+9,HDMI Cable,MasterCard,777.72,30-03-2023 22:39,United States,New York City,www.flipkart.com
+10,Text Books,Visa,297.35,30-03-2023 22:41,United States,New York City,www.snapdeal.com
+11,TV,MasterCard,697.31,30-03-2023 20:39,United States,Florida,www.ebay.com
+12,Wrist Band,MasterCard,984.73,30-03-2023 22:25,Germany,Berlin,www.flipkart.com
+13,Online Course,Visa,785.52,30-03-2023 22:01,China,Beijing,www.amazon.com
+14,TV Stand,Visa,418.55,30-03-2023 21:39,India,Kolkata,www.ebay.com
+15,Wrist Band,Visa,417.98,30-03-2023 22:21,India,Hyderabad,www.flipkart.com
+16,Mobile Phone,MasterCard,471.75,30-03-2023 22:33,United States,New York City,www.snapdeal.com
+17,TV,MasterCard,730.03,30-03-2023 22:37,China,Beijing,www.healthkart.com
+18,TV,MasterCard,556.03,30-03-2023 22:19,India,Bangalore,www.flipkart.com
+19,External Hard Drive,Maestro,565.38,30-03-2023 21:37,Pakistan,Islamabad,www.healthkart.com
+20,Mobile Phone,MasterCard,78.6,30-03-2023 21:06,India,Chennai,www.amazon.com
+21,External Hard Drive,Maestro,531.72,30-03-2023 22:48,India,Chennai,www.healthkart.com
+22,External Hard Drive,Visa,933.1,30-03-2023 22:00,Canada,Ottawa,www.snapdeal.com
+23,Mobile Phone,Visa,671.65,30-03-2023 22:38,Canada,Ottawa,www.ebay.com
+24,Mobile Phone,MasterCard,748.77,30-03-2023 21:05,India,Kolkata,www.amazon.com
+25,Laptop,MasterCard,667.17,30-03-2023 20:45,United States,New York City,www.flipkart.com
+26,Desktop Computer,MasterCard,720.89,30-03-2023 22:02,Inida,New Delhi,www.healthkart.com
+27,Online Course,Visa,57.9,30-03-2023 22:29,Bangladesh,Dhaka,www.snapdeal.com
+28,Text Books,Visa,178.19,30-03-2023 21:24,India,Bangalore,www.amazon.com
+29,LAN Cable,Maestro,805.88,30-03-2023 20:38,China,Beijing,www.amazon.com
+30,External Hard Drive,Maestro,137.8,30-03-2023 22:15,United Kingdom,London,www.ebay.com
+31,LAN Cable,Maestro,593.22,30-03-2023 20:54,India,Chennai,www.ebay.com
+32,LAN Cable,Visa,501.34,30-03-2023 20:14,Thailand,Bangkok,www.amazon.com
+33,External Hard Drive,Maestro,385.97,30-03-2023 20:46,Thailand,Bangkok,www.flipkart.com
+34,HDMI Cable,Visa,183.69,30-03-2023 22:12,France,Paris,www.healthkart.com
+35,Wrist Watch,Maestro,380.52,30-03-2023 21:58,Australia,Sydney,www.flipkart.com
+36,Desktop Computer,Maestro,549.35,30-03-2023 21:33,India,Pune,www.snapdeal.com
+37,HDMI Cable,Visa,226.12,30-03-2023 20:22,India,Chennai,www.flipkart.com
+38,TV Stand,MasterCard,629.57,30-03-2023 21:31,India,Chennai,www.snapdeal.com
+39,Wrist Watch,MasterCard,949.8,30-03-2023 20:36,Inida,New Delhi,www.ebay.com
+40,Text Books,MasterCard,882.82,30-03-2023 20:35,India,Kolkata,www.ebay.com
+41,Wrist Watch,Maestro,216.78,30-03-2023 22:28,India,Hyderabad,www.healthkart.com
+42,Laptop,Maestro,46.76,30-03-2023 20:23,Australia,Sydney,www.ebay.com
+43,HDMI Cable,Visa,460.16,30-03-2023 21:33,United States,New York City,www.healthkart.com
+44,TV,Maestro,933.91,30-03-2023 21:18,Thailand,Bangkok,www.flipkart.com
+45,External Hard Drive,Visa,250.82,30-03-2023 20:36,India,Bangalore,www.flipkart.com
+46,Wrist Watch,Maestro,916.82,30-03-2023 20:17,India,Bangalore,www.healthkart.com
+47,TV,Visa,603.01,30-03-2023 22:51,Israel,Jerusalem,www.healthkart.com
+48,TV,Visa,683.66,30-03-2023 21:39,Italy,Rome,www.snapdeal.com
+49,Mobile Phone,Maestro,528.86,30-03-2023 20:24,United States,Florida,www.flipkart.com
+50,HDMI Cable,Maestro,702.32,30-03-2023 20:38,United States,Florida,www.snapdeal.com
+51,Pen Drive,Visa,840.63,30-03-2023 22:53,India,Bangalore,www.snapdeal.com
+52,HDMI Cable,Visa,51.94,30-03-2023 22:00,Italy,Rome,www.amazon.com
+53,Online Course,Maestro,291.27,30-03-2023 20:53,United Kingdom,London,www.amazon.com
+54,Text Books,Maestro,241.09,30-03-2023 21:22,India,Chennai,www.amazon.com
+55,Mobile Phone,Visa,964.92,30-03-2023 20:48,India,Pune,www.ebay.com
+56,External Hard Drive,Visa,431.46,30-03-2023 21:05,India,Mumbai,www.snapdeal.com
+57,TV Stand,MasterCard,147.43,30-03-2023 20:18,India,Hyderabad,www.amazon.com
+58,Online Course,Maestro,569.05,30-03-2023 21:27,Singapore,Singapore,www.healthkart.com
+59,TV Stand,Visa,268.71,30-03-2023 22:11,France,Paris,www.snapdeal.com
+60,Mobile Phone,Maestro,358.91,30-03-2023 21:28,Canada,Ottawa,www.flipkart.com
+61,Wrist Watch,Maestro,64.99,30-03-2023 20:15,India,Mumbai,www.healthkart.com
+62,Pen Drive,Visa,658.18,30-03-2023 21:48,China,Beijing,www.amazon.com
+63,TV Stand,Maestro,707.29,30-03-2023 20:10,India,Chennai,www.ebay.com
+64,Mobile Phone,Maestro,316.05,30-03-2023 22:48,Pakistan,Islamabad,www.amazon.com
+65,HDMI Cable,Visa,181.56,30-03-2023 22:48,United Kingdom,London,www.snapdeal.com
+66,TV Stand,Maestro,37.94,30-03-2023 20:36,Thailand,Bangkok,www.flipkart.com
+67,HDMI Cable,MasterCard,469.64,30-03-2023 22:33,China,Beijing,www.flipkart.com
+68,Mobile Phone,Maestro,548.81,30-03-2023 21:57,Australia,Sydney,www.ebay.com
+69,TV,Visa,20.44,30-03-2023 21:10,United Kingdom,London,www.ebay.com
+70,TV Stand,Visa,486.9,30-03-2023 21:14,Inida,New Delhi,www.healthkart.com
+71,TV,Maestro,765.53,30-03-2023 22:43,Israel,Jerusalem,www.amazon.com
+72,TV Stand,Maestro,775.04,30-03-2023 20:25,Inida,New Delhi,www.healthkart.com
+73,Wrist Watch,MasterCard,996.08,30-03-2023 21:02,Pakistan,Islamabad,www.flipkart.com
+74,HDMI Cable,Visa,373.13,30-03-2023 22:47,Bangladesh,Dhaka,www.ebay.com
+75,Wrist Watch,MasterCard,231.26,30-03-2023 20:41,Australia,Sydney,www.flipkart.com
+76,Laptop,Maestro,823.25,30-03-2023 20:59,Inida,New Delhi,www.flipkart.com
+77,Wrist Band,MasterCard,973.07,30-03-2023 21:44,India,Mumbai,www.flipkart.com
+78,LAN Cable,Maestro,191.41,30-03-2023 22:48,Bangladesh,Dhaka,www.healthkart.com
+79,Text Books,Maestro,255.09,30-03-2023 21:23,Pakistan,Islamabad,www.healthkart.com
+80,HDMI Cable,Visa,501.55,30-03-2023 20:11,India,Hyderabad,www.flipkart.com
+81,LAN Cable,Visa,870.66,30-03-2023 21:18,Australia,Sydney,www.flipkart.com
+82,TV,Maestro,420.17,30-03-2023 22:04,China,Beijing,www.flipkart.com
+83,Pen Drive,MasterCard,434.06,30-03-2023 22:03,United States,New York City,www.snapdeal.com
+84,External Hard Drive,MasterCard,85.13,30-03-2023 21:25,India,Kolkata,www.flipkart.com
+85,Pen Drive,Maestro,330.29,30-03-2023 22:45,India,Kolkata,www.ebay.com
+86,External Hard Drive,Visa,84.83,30-03-2023 21:42,India,Pune,www.ebay.com
+87,LAN Cable,MasterCard,848.51,30-03-2023 22:39,India,Mumbai,www.snapdeal.com
+88,Desktop Computer,MasterCard,767.85,30-03-2023 22:52,Germany,Berlin,www.ebay.com
+89,Online Course,MasterCard,520.77,30-03-2023 20:28,Sri Lanka,Colombo,www.ebay.com
+90,Text Books,Maestro,260.51,30-03-2023 21:56,India,Mumbai,www.healthkart.com
+91,Laptop,MasterCard,484.19,30-03-2023 20:14,United States,Florida,www.ebay.com
+92,Pen Drive,Visa,518.78,30-03-2023 20:30,India,Mumbai,www.flipkart.com
+93,Text Books,MasterCard,915.79,30-03-2023 20:24,Thailand,Bangkok,www.amazon.com
+94,External Hard Drive,Maestro,329.53,30-03-2023 21:01,United States,New York City,www.amazon.com
+95,Mobile Phone,Visa,72.38,30-03-2023 20:14,India,Bangalore,www.flipkart.com
+96,External Hard Drive,Visa,155.96,30-03-2023 22:21,Canada,Ottawa,www.healthkart.com
+97,Text Books,Maestro,267.51,30-03-2023 22:31,India,Hyderabad,www.flipkart.com
+98,Laptop,MasterCard,37.26,30-03-2023 22:48,India,Bangalore,www.flipkart.com
+99,LAN Cable,Visa,202.21,30-03-2023 21:23,Italy,Rome,www.ebay.com
+100,Mobile Phone,Visa,346.99,30-03-2023 21:05,India,Pune,www.flipkart.com
