@@ -1,0 +1,62 @@
+-- Create the master dataframe nd insert values into them
+CREATE TABLE customer_master (
+  id INT,
+  name STRING,
+  dob STRING,
+  validity_start STRING,
+  validity_end STRING
+);
+
+INSERT INTO customer_master
+VALUES 
+  (1, 'Harsha', '20-08-1990', '01-01-1970', '12-12-9999'),
+  (2, 'Goldie', '11-02-1990', '01-01-1970', '12-12-9999'),
+  (3, 'Divya', '25-12-1990', '01-01-1970', '12-12-9999');
+
+-- Create the dataframe with records to be updated
+CREATE TABLE updates (
+  name STRING,
+  updated_dob STRING
+);
+
+INSERT INTO updates
+VALUES 
+  ('Harsha', '05-09-1990');
+
+
+-- Create the updated customer records DataFrame such that both the previous version and new version of a record are tracked using timestamp of update
+-- Create the current version of the full customer record
+CREATE TABLE fullrowupdates (
+  id INT,
+  name STRING,
+  dob STRING,
+  validity_start STRING,
+  validity_end STRING
+);
+
+INSERT INTO fullrowupdates 
+SELECT 
+  cm.id, 
+  u.name, 
+  u.updated_dob, 
+  '12-03-2023' AS validity_start, 
+  cm.validity_end
+FROM 
+  customer_master cm 
+  JOIN updates u ON cm.name = u.name;
+
+
+
+-- Update the previous record to close the validity
+CREATE TABLE closeprev AS
+SELECT cm.id, cm.name, cm.dob, cm.validity_start, 
+  CASE WHEN u.updated_dob IS NULL THEN cm.validity_end ELSE '12-03-2023' END AS validity_end
+FROM customer_master cm
+LEFT OUTER JOIN updates u
+  ON cm.name = u.name;
+
+-- Set the final customer master as a combination of old and new records
+CREATE TABLE customer_master_updated AS
+SELECT id, name, dob, validity_start, validity_end FROM closeprev
+UNION ALL
+SELECT id, name, dob, validity_start, validity_end FROM fullrowupdates;

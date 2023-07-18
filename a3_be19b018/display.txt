@@ -1,0 +1,2 @@
+SELECT * FROM customer_master_updated
+ORDER BY id ASC, validity_end ASC;
